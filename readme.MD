@@ -87,7 +87,7 @@ markitdown-converter/
 
 ## DETAILS
 
-- See details here : https://github.com/microsoft
+- See details here : https://github.com/microsoft/markitdown
 
 ## CONTACT 
 
